@@ -1,0 +1,10 @@
+{
+  "total_translations": 7,
+  "total_projects": 0,
+  "language_usage": {
+    "Python->ABAP": 4,
+    "Python->APL": 2,
+    "Apex->APL": 1
+  },
+  "total_lines_translated": 7
+}

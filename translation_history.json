@@ -1,0 +1,58 @@
+[
+  {
+    "id": "20251102105445206340",
+    "source_code": "print(\"s\")",
+    "translated_code": "Translated from Apex to APL:\n\nprint(\"s\")\n\nNote: This is a basic translation. For accurate translation with full logic preservation, please add a Gemini API key in the sidebar.",
+    "source_lang": "Apex",
+    "target_lang": "APL",
+    "timestamp": "2025-11-02T10:54:45.206366"
+  },
+  {
+    "id": "20251102104040276668",
+    "source_code": "print(\"s\")",
+    "translated_code": "Translation Error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "source_lang": "Python",
+    "target_lang": "APL",
+    "timestamp": "2025-11-02T10:40:40.276704"
+  },
+  {
+    "id": "20251102104035958536",
+    "source_code": "print(\"s\")",
+    "translated_code": "Translation Error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "source_lang": "Python",
+    "target_lang": "APL",
+    "timestamp": "2025-11-02T10:40:35.958571"
+  },
+  {
+    "id": "20251102103932311338",
+    "source_code": "print(\"s\")",
+    "translated_code": "Translation Error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "source_lang": "Python",
+    "target_lang": "ABAP",
+    "timestamp": "2025-11-02T10:39:32.311372"
+  },
+  {
+    "id": "20251102103907437823",
+    "source_code": "print(\"s\")",
+    "translated_code": "Translation Error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "source_lang": "Python",
+    "target_lang": "ABAP",
+    "timestamp": "2025-11-02T10:39:07.437859"
+  },
+  {
+    "id": "20251102103804206232",
+    "source_code": "print(\"s\")",
+    "translated_code": "Translated from Python to ABAP:\n\nprint(\"s\")\n\nNote: This is a basic translation. For accurate translation with full logic preservation, please add a Gemini API key in the sidebar.",
+    "source_lang": "Python",
+    "target_lang": "ABAP",
+    "timestamp": "2025-11-02T10:38:04.206254"
+  },
+  {
+    "id": "20251102103759742651",
+    "source_code": "print(\"s\")",
+    "translated_code": "Translated from Python to ABAP:\n\nprint(\"s\")\n\nNote: This is a basic translation. For accurate translation with full logic preservation, please add a Gemini API key in the sidebar.",
+    "source_lang": "Python",
+    "target_lang": "ABAP",
+    "timestamp": "2025-11-02T10:37:59.742682"
+  }
+]
